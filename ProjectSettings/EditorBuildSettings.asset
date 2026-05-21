@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HW18_AR_Test/HW18_AR_Test.unity
-    guid: 8eba699ebbe1e6f4484d88cf6095a8f0
+    path: Assets/HW20_LimitedBody/HW20_LimitedBody.unity
+    guid: efa10ec1ef3beb942b30d8f8546c0cf7
   m_configObjects: {}
