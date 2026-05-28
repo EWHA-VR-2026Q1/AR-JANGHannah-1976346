@@ -6,6 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HW21_Canvas/HW21_Canvas.unity
-    guid: bada302343968594b88e21f9fb47703d
-  m_configObjects: {}
+    path: Assets/HW25_MultiPlayer_Lobby/HW25_MultiPlayer_Lobby.unity
+    guid: 74319e7bc2c644045b5d56646b121329
+  - enabled: 1
+    path: Assets/HW25_MultiPlayer_Lobby/GameScene.unity
+    guid: 49dff91919ec23a4b9ce155705d0a473
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 24c43d26c7124e64997917039cb7ef1b,
+      type: 2}
