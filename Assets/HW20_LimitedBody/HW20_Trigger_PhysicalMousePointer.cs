@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.EventSystems;
-public class Trigger_PhysicalMousePointer : MonoBehaviour
+public class HW_Trigger_PhysicalMousePointer : MonoBehaviour
 {
 
     private Camera mainCamera;
